@@ -6,7 +6,7 @@ title: "`r emo::ji('Japan')` Project-wide Code of Conduct statement for Biocondu
 
 # 行動規範
 
-**バージョン1.0.2 (2021年7月27日)**
+**バージョン1.2.0 (2022年11月25日)**
 
 _これは、以前に開催したカンファレンス固有のドキュメントから拡張されたプロジェクト全体の最初の行動規範です_
 
